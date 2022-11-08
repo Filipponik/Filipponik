@@ -22,9 +22,7 @@
 ![Postman](https://img.shields.io/badge/-Postman-141a20?style=flat&logo=postman)&nbsp;
 ![Sentry](https://img.shields.io/badge/-Sentry-141a20?style=flat&logo=sentry)&nbsp;
 
-<a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=filipponik&count_private=true&show_icons=true&theme=city_lights" />
-</a>
-<a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=filipponik&count_private=true&show_icons=true&include_all_commits=true&theme=city_lights&layout=compact" />
-</a>
+
+### ⚙️ &nbsp;GitHub Analytics
+![stats](https://github-readme-stats.vercel.app/api?username=filipponik&count_private=true&show_icons=true&theme=city_lights)
+![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=filipponik&count_private=true&show_icons=true&include_all_commits=true&theme=city_lights&layout=compact&card_width=250)
