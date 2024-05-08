@@ -24,6 +24,9 @@
 
 
 ### ⚙️ &nbsp;GitHub Analytics
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Filipponik&theme=nord)](https://git.io/streak-stats) \
-![stats](https://github-readme-stats.vercel.app/api?username=filipponik&count_private=true&show_icons=true&theme=nord) \
-![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=filipponik&count_private=true&show_icons=true&include_all_commits=true&theme=nord&layout=compact&card_width=250)
+<a href="https://github.com/Filipponik">
+  <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Filipponik&theme=nord&card_width=467" />
+</a>
+<a href="https://github.com/Filipponik">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=filipponik&count_private=true&show_icons=true&include_all_commits=true&theme=nord&layout=compact&card_width=250" />
+</a>
